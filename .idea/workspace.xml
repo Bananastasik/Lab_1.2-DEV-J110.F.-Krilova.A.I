@@ -4,15 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ac6ed1a-8af4-4962-a4f3-ca12d0116d26" name="Changes" comment="" />
+    <list default="true" id="5ac6ed1a-8af4-4962-a4f3-ca12d0116d26" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/src/main/java/crs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/src/main/java/crs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bananastasik/Lab_1.2-DEV-J110.F.-Krilova.A.I..git",
+    "accountId": "a2f087e1-b7f8-4167-99a4-a68188659366"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3M3oTWB1JOjEPpHmTOmrVJZaEVb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +42,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/1/IdeaProjects/Lab_1.2-DEV-J110.F.-Krilova.A.I/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -44,22 +71,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794588625341</updated>
-      <workItem from="1794588626668" duration="49000" />
+      <workItem from="1794588626668" duration="6211000" />
+      <workItem from="1794597357010" duration="1278000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../Lab_1.2-DEV-J110.F.-Krilova.A.I/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
